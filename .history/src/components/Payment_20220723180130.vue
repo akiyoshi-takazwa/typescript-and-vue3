@@ -1,0 +1,20 @@
+<script setup lang="ts">
+</script>
+
+<template>
+  <div class="container">
+    <h1>最近の支出</h1>
+    <div class="payment">
+
+    </div>
+
+  </div>
+</template>
+
+<style scoped>
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+</style>>
